@@ -19,7 +19,6 @@ jobs:
         with:
           source: ./
           page_title: "Corban's Cybersecurity Notes"
-          destination: ./quartz
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
   deploy:
