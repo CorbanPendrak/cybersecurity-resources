@@ -1,0 +1,9 @@
+# Exclueds all Obsidian's settings
+.obsidian/
+
+# Exclude only plugin configuration
+.obsidian/plugins
+
+# Exclude OS settings and caches
+.trash/
+.DS_Store

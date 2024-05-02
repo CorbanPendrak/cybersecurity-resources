@@ -1,0 +1,24 @@
+This is Corban Pendrak's vault for the [SAN's Foundation](https://sans-foundations.com/course) course.
+
+# Modules
+```dataview
+LIST
+FROM [[]] AND !outgoing([[]])
+```
+
+```YML
+name: learn-github-actions
+run-name: ${{ github.actor }} is learning GitHub Actions
+on: [push]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install -g bats
+      - run: bats -v
+
+```
