@@ -17,8 +17,9 @@ jobs:
       - name: Build
         uses: konstfish/quartz-build-action@v1
         with:
-          source: example_projects/default/content
-          page_title: "Quartz"
+          source: ./
+          page_title: "Corban's Cybersecurity Notes"
+          destination: ./quartz
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
   deploy:
