@@ -12,6 +12,10 @@ FROM [[]] AND !outgoing([[]])
 
 - [[Computer Programs]]
 - [[Documentation]]
+- [[Paradigms]]
+- [[Formatting]]
+- [[Defensiveness]]
+- [[Unit Testing]]
 
 ## Python
 
