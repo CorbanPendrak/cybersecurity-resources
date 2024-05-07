@@ -1,11 +1,12 @@
 #MOC
 [[Cybersecurity MOC]]
 - - -
-# Inbox
-```dataview
-LIST
-FROM [[]] AND !outgoing([[]])
-```
+
+> [!example]- Inbox
+> ```dataview
+> LIST
+> FROM [[]] and !outgoing([[]])
+> ```
 # Content
 
 Description here...

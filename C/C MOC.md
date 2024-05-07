@@ -1,11 +1,12 @@
 #programming #MOC
 [[Programming MOC]]
 - - -
-# Inbox
-```dataview
-LIST
-FROM [[]] AND !outgoing([[]])
-```
+
+> [!example]- Inbox
+> ```dataview
+> LIST
+> FROM [[]] and !outgoing([[]])
+> ```
 # Content
 
 ## About C
