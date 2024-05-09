@@ -1,5 +1,5 @@
 #internet 
-[[The Web MOC]]
+[[Web MOC]]
 [[Network MOC]]
 - - -
 

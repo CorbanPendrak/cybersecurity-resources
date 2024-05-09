@@ -1,5 +1,5 @@
 #internet 
-[[The Web MOC]]
+[[Web MOC]]
 - - -
 
 JavaScript is a programming language which runs inside a browser, unlike [[PHP]], but is visible from the website inside the [[HTML]].

@@ -20,9 +20,8 @@ $ sudo mysql_secure_installation
 ```
 Enter a password for root user and configure options (typically `y`).
 
-## Connecting
+## Create a User
 
-Create new user:
 ```shell
 $ sudo mysql -u root -p
 MariaDB [(none)]> 
@@ -32,4 +31,11 @@ FLUSH PRIVILEGES;
 exit
 $ mysql -u corban -p
 MariaDB [(none)]>
+```
+
+## Create a Database
+
+```SQL
+CREATE DATABASE <database_name>;
+USE <database_name>;
 ```

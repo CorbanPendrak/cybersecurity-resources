@@ -1,5 +1,5 @@
 #internet 
-[[The Web MOC]]
+[[Web MOC]]
 - - -
 
 HTML stands for Hyper Text Markup Language. It formats data for the web using tags like `<html></html>`, but doesn't change based on user input.

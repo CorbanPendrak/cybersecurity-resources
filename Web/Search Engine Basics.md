@@ -1,5 +1,5 @@
 #search 
-[[The Web MOC]]
+[[Web MOC]]
 - - -
 
 Search engines run crawlers, which visit the page and all linked pages, to display results.
