@@ -14,6 +14,7 @@
 - [[SQL Description]]
 - [[Database Types]]
 - [[Installing MariaDB]]
+- [[Database Server]]
 
 ## Basics
 
@@ -23,6 +24,7 @@
 - [[SQL WHERE]]
 - [[SQL DISTINCT]]
 - [[SQL AS]]
+- [[SQL LIMIT]]
 
 ## JOIN Command
 

@@ -1,7 +1,7 @@
 #linux #GUI 
 [[Introduction to Linux MOC]]
 - - -
-Each distribution has a unique layout with several key features
+Each distribution has a unique layout with several key features for an alternate interface to the [[Linux Terminal]].
 
 ## Dock
 

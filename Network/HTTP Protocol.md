@@ -21,3 +21,24 @@ The response header contains metadata about the request and the response body co
 - **302**: Found, but redirect
 - **404**: File not found
 - **500**: Internal server error
+
+| HTTP Code | Meaning               |
+| --------- | --------------------- |
+| 100       | Continue              |
+| 200       | OK                    |
+| 202       | Accepted              |
+| 301       | Moved Permanently     |
+| 302       | Found, but Redirect   |
+| 400       | Bad Request           |
+| 401       | Unauthorized          |
+| 403       | Forbidden             |
+| 404       | Not Found             |
+| 408       | Request Timeout       |
+| 500       | Internal Server Error |
+| 502       | Bad Gateway           |
+| 503       | Sevice Unavailable    |
+| 504       | Gateway Timeout       |
+
+# HTTPS
+
+The HTTPS protocol uses both [[Encryption#Symmetric Encryption|symmetric]] and [[Encryption#Asymmetric Encryption|asymmetric]] encryption. The SSL certificate is used for asymmetric encryption to create a symmetric key for faster encryption.

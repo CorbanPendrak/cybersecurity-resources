@@ -1,8 +1,11 @@
-#MOC
-[[Parent MOC]]
-- - -
+---
+tags:
+  - MOC
+MOC: "[[Cybersecurity MOC]]"
+---
+-- --
 
-> [!example]+ Inbox
+> [!example]- Inbox
 > ```dataview
 > LIST
 > FROM [[]] and !outgoing([[]])

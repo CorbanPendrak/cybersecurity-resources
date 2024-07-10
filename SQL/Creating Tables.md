@@ -16,7 +16,7 @@ CREATE TABLE `<table_name>` (
 ) AUTO_INCREMENT-1
 ```
 
-
+The available tables can be shown with `show tables`, and a particular table described with `describe <table_name>`. 
 # Datatypes
 
 ## Integers

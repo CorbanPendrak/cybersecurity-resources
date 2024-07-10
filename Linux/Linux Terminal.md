@@ -1,7 +1,7 @@
 #linux #terminal
 [[Introduction to Linux MOC]]
 - - -
-The GUI is an abstraction of the terminal
+The [[Linux GUI]] is an abstraction of the terminal. Unlike [[Windows PowerShell]], the terminal can completely manipulate the OS. 
 
 ## Prompt
 

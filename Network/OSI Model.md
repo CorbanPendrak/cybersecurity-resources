@@ -1,8 +1,12 @@
-#network 
-[[Network MOC]]
+---
+tags:
+  - network
+MOC: "[[Network MOC]]"
+---
+
 - - - 
 
-The Open Systems Interconnection (OSI) is a theoretical model for network  communication.
+The Open Systems Interconnection (OSI) is a theoretical model for network  communication that is more abstract version of the [[TCP IP Model]].
 
 # OSI Layers
 
@@ -15,12 +19,3 @@ Each layer transforms data from highest level into electrical signals at physica
 5. **Session**: Managing connections
 6. **Presentation**: Formats data for recipient, encrypts data, XML, JSON, binary...
 7. **Application**: The application, [[HTTP Protocol]], [[FTP Protocol]]
-
-# TCP IP Model
-
-The TCP/IP model is an adaption of the OSI model.
-
-1. **Network Access**: OSI Data Link and Physical layer
-2. **Internet**: Same as OSI Network layer
-3. **Transport**: Same as OSI Transportation layer
-4. **Application**: Includes OSI Application, Presentation, and Session layers
