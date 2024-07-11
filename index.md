@@ -1,4 +1,6 @@
-This is Corban Pendrak's vault for the [SAN's Foundation](https://sans-foundations.com/course) course.
+-- --
+
+This is Corban Pendrak's vault for cybersecurity resources and notes.
 
 # Modules
 
