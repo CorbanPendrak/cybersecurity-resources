@@ -1,5 +1,5 @@
 #MOC
-[[Cybersecurity MOC]]
+[[index]]
 - - -
 
 > [!example]- Inbox

@@ -1,6 +1,6 @@
 ---
 tags: 
-MOC: "[[Cybersecurity MOC]]"
+MOC: "[[index]]"
 ---
 -- --
 
