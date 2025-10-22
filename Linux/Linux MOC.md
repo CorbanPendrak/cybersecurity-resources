@@ -1,6 +1,7 @@
-#MOC
-[[index]]
-- - -
+---
+Par: "[[index]]"
+---
+---
 
 > [!example]- Inbox
 > ```dataview
@@ -9,12 +10,12 @@
 > ```
 # Content
 
-Description here...
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - MOC == "Linux MOC"
 
-# Related MOCs
-
-Related MOCs here...
-
-# To Do
-
-- [ ] 
+```

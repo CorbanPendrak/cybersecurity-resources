@@ -1,4 +1,3 @@
-- - -
 
 Welcome to my repository for cybersecurity resources and notes.
 

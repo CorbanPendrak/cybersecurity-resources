@@ -1,6 +1,7 @@
-#MOC
-[[Linux MOC]]
-- - -
+---
+MOC: "[[Linux MOC]]"
+---
+---
 
 > [!example]+ Inbox
 > ```dataview

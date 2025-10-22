@@ -54,7 +54,7 @@ Autojump for faster file system: `sudo apt install autojump`, uses `j <file>`.
 
 # Vim Configuration
 
-The [Awesome Vim configuration](https://github/amix/vimrc.git) can add code syntax highlighting.
+The [Awesome Vim configuration](https://github.com/amix/vimrc.git) can add code syntax highlighting.
 
 # Cat Configuration
 
